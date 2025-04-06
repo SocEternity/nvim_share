@@ -1,0 +1,28 @@
+C+trouble.lua,nvim-cmp.luz,nvim-cmp.lua-telescope.lua-lspconfig.lua.treesitter.lua�{return {
+  "williamboman/mason.nvim",
+  opts = {
+    ensure_installed = {
+      "stylua",
+      "shellcheck",
+      "shfmt",
+      "flake8",
+    },
+  },
+return {
+  "williamboman/mason.nvim",
+  opts = {
+    ensure_installed = {
+      "stylua",
+      "shellcheck",
+      "shfmt",
+      "flake8",
+    },
+  },
+mason.lua)mason.lua/example.lua.bak,twilight.lua+example.lia+example.lua+example.txt,twilight.lua,twilight.lua"wq,zen-mode.lua,nvim-cmp.lua$test'test.py8lua/plugins/nvim-cmp.txt,nvim-cmp.lua8lua/plugins/nvim-cmp.lua(yazi.lua*snacks.lua(yazi.lua$qjjq,neo-tree.luaQ《文与可画筼筜谷偃竹记》-词语解释�Study/深造/语文/专升本/真题及考点/字词解释/《文与可画筼筜谷偃竹记》-词语解释.md�Study/深造/语文/专升本/真题及考点/字词解释/《季氏将伐颛臾》-词语解释.md?《马伶传》-词语解析.md9《氓》-词语解析.md<《国殇》-词语解析.md?《短歌行》-词语解析.mdE《春江花月夜》-词语解析.mdB《山居秋暝》-词语解析.md?《燕歌行》-词语解析.mdB《前赤壁赋》-词语解析.mdB《长亭送别》-词语解析.mdG《夜行船·秋思》-词语解析.md?《摸鱼儿》-词语解析.md?《永遇乐》-词语解析.mdB《八声甘州》-词语解析.md?《浪淘沙》-词语解析.md?《关山月》-词语解析.md<《锦瑟》-词语解析.md?《长恨歌》-词语解析.mdJ《秋兴八首(其一)》-词语解析.md?《兵车行》-词语解析.mdW《宣州谢朓楼饯别校书叔云》-词语解析.mdG《行路难(其一)》-词语解析.md,marklive.lua0marklive_bak.lua4markdown-preview.lua!h2core-plugins.jsonhl韩愈
+柳宗元
+欧阳修
+苏洵
+苏轼
+苏辙
+王安石
+唐宋八大家.md4markdown-perview.lua4markdown_perview.lua8lua/plugins/zen_mode.lua"nv4markdown_perview.lua/custom-font.cssLFile-Explorer-fontsize & Custom-fontsize.cssIFileExplorerFontSize & CustomFontSize.css

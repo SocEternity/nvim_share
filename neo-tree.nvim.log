@@ -1,0 +1,42 @@
+[ERROR 三  8/21 12:22:50 2024] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:761: Error opening file: vim/_editor.lua:0: Keyboard interrupt
+[INFO  三  8/21 12:25:28 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 13:53:19 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed nvim-tree.lua successfully
+[INFO  日  9/ 8 13:54:12 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 13:54:14 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  日  9/ 8 13:54:15 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 14:03:03 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 14:03:04 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  日  9/ 8 14:03:04 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 14:03:05 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  日  9/ 8 14:08:36 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 14:08:37 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  日  9/ 8 14:08:38 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 14:08:39 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  日  9/ 8 14:08:39 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 14:08:40 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  日  9/ 8 14:11:58 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  日  9/ 8 14:11:59 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  日  9/ 8 14:25:33 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/soc/.config/nvim/lua/plugins/plugin_config
+[INFO  日  9/ 8 15:27:50 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  日  9/ 8 15:29:30 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  日  9/ 8 16:33:02 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed editor.lua successfully
+[WARN  日  9/ 8 16:41:13 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:253: Cannot copy a file/folder to itself
+[INFO  四  9/12 22:15:39 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  五  9/13 21:05:05 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed venv-seletor.lua successfully
+[INFO  五  9/13 21:06:21 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed venv_seletor.lua successfully
+[INFO  六  9/14 00:27:12 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  一  9/16 02:56:46 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  一  9/16 02:56:47 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  一  9/16 02:56:47 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  一  9/16 02:56:59 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  一  9/16 02:56:59 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  一  9/16 02:57:19 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  一  9/16 03:04:59 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  一  9/16 03:08:58 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  一  9/16 12:46:01 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  一  9/16 12:46:03 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  一  9/16 12:46:05 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  一  9/16 12:46:05 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  一  9/16 12:46:07 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  四  9/26 09:47:07 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed example.py successfully
+[INFO  六 12/28 21:53:13 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups

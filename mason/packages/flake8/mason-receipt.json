@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","metrics":{"completion_time":1741269375306,"start_time":1741269371712},"name":"flake8","links":{"bin":{"flake8":"venv\/bin\/flake8"},"share":{},"opt":{}},"primary_source":{"id":"pkg:pypi\/flake8@7.1.2","type":"registry+v1"}}
